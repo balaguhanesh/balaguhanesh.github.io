@@ -1,0 +1,20 @@
+title: Bala Guhanesh
+description: Engineer — Agentic AI / Voice AI. Full-duplex speech pipelines, code-switching ASR, multi-agent tooling.
+url: "https://balaguhanesh.github.io"
+author: Bala Guhanesh
+email: gsbalaguhanesh@gmail.com
+github_username: balaguhanesh
+linkedin_url: "https://www.linkedin.com/in/balaguhanesh"
+resume_url: "https://drive.google.com/file/d/1juRnHeIv2cbFFJQATnwdccXrnesBYlcj/view?usp=sharing"
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+permalink: /blog/:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
